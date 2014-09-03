@@ -12,4 +12,4 @@ the art pieces on playa during the first few days of build week and then
 enjoy the party.  Common components, connectors and modular design make
 this easier.
 
-[More information on the wiki|https://github.com/osresearch/october-first/wiki]
+[More information on the wiki](https://github.com/osresearch/october-first/wiki)
